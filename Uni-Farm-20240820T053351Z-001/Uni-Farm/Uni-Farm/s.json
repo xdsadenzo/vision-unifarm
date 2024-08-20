@@ -1,0 +1,8 @@
+{
+    
+    "oservice" :[
+        {"id":11,"name":"Best Animal Selection","des":"Chickens, goats, and bees are ideal for entrepreneurs: easy to manage, highly productive, and in strong market demand. These animals ensure profitable ventures with low maintenance and high returns.","price":15000, "image":"img/service-1.jpg"},
+       {"id":22,"name":"Breeding & Veterinary","des":"Explore our breeding and veterinary selection for top-quality care. We offer essential tools, supplies, and expert guidance to ensure the health and productivity of your livestock, enhancing your farming success.","price":25000, "image":"img/service-2.jpg"},
+       {"id":33,"name":"Care & Milking","des":"Our care and milking section offers essential tools and guidance for efficient livestock management, ensuring optimal health and productivity in dairy animals like cows and goats. Ideal for both beginners and experienced farmers.","price":30000, "image":"img/service-3.jpg"}
+    ]
+}

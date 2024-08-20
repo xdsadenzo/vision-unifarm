@@ -1,0 +1,14 @@
+{
+    "ourservice" :[
+        {"id":1,"name":"Best Animal Selection","des":"Chickens, goats, and bees are ideal for entrepreneurs: easy to manage, highly productive, and in strong market demand. These animals ensure profitable ventures with low maintenance and high returns.","price":15000, "image":"img/service-1.jpg"},
+       {"id":2,"name":"Care & Milking","des":"Our care and milking section offers essential tools and guidance for efficient livestock management, ensuring optimal health and productivity in dairy animals like cows and goats. Ideal for both beginners and experienced farmers.","price":30000, "image":"img/service-3.jpg"},
+       {"id":3,"name":"Breeding & Veterinary","des":"Explore our breeding and veterinary selection for top-quality care. We offer essential tools, supplies, and expert guidance to ensure the health and productivity of your livestock, enhancing your farming success.","price":25000, "image":"img/service-2.jpg"}
+    
+    ],
+    "products" :[
+        {"id":4,"name":"Pure Milk","des":"Our OG Products offer pure, high-quality milk from well-cared-for animals. Rich in nutrients and free from additives, it's the perfect choice for health-conscious consumers seeking natural dairy options.","price":199, "image":"img/product-1.jpg"},
+       {"id":5,"name":"Fresh Meat","des":"Our OG products feature fresh, high-quality meat from ethically raised animals. Enjoy premium cuts that are flavorful, tender, and sourced from farms committed to sustainable and humane practices.","price":949, "image":"img/product-2.jpg"},
+       {"id":6,"name":"Dairy Products","des":"Our OG dairy products section features premium milk, cheese, and yogurt from healthy, well-cared-for animals, ensuring fresh, high-quality, and delicious options for your culinary needs.","price":499, "image":"img/product-3.jpg"},
+       {"id":7,"name":"Organic Foods","des":"Our organic food section features premium products free from pesticides and synthetic additives. Enjoy the highest quality fruits, vegetables, and grains, promoting health and sustainability for conscious consumers.","price":999, "image":"img/product-4.jpg"}
+    ]  
+    }
